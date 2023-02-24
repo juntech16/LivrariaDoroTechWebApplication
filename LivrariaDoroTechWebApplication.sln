@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaDoroTechWebApplication", "LivrariaDoroTechWebApplication\LivrariaDoroTechWebApplication.csproj", "{88992D6D-3336-43D8-9F2D-7426C3C86B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88992D6D-3336-43D8-9F2D-7426C3C86B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88992D6D-3336-43D8-9F2D-7426C3C86B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88992D6D-3336-43D8-9F2D-7426C3C86B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88992D6D-3336-43D8-9F2D-7426C3C86B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8D8A65-A42D-49EE-A1C1-EDFAE70F205F}
+	EndGlobalSection
+EndGlobal
